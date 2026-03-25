@@ -5,3 +5,6 @@ cd 17practical
 git init
 git add .
 git commit -m "Start binary search tree project"
+
+git add tryBST.java
+git commit -m "Last commit for binary search tree"
